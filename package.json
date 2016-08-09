@@ -1,0 +1,19 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "should": "^10.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.4",
+    "mocha": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
